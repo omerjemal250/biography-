@@ -1,0 +1,70 @@
+:root {
+  --bg: #ffffff;
+  --text: #111;
+  --card: #f1f3f5;
+  --nav: #212529;
+}
+
+body.dark {
+  --bg: #0d1117;
+  --text: #e6edf3;
+  --card: #161b22;
+  --nav: #161b22;
+}
+
+body {
+     background: rgb(255, 236, 127);
+    color: aquamarine;
+    margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  transition: 0.3s;
+}
+
+.navbar {
+    background: rgba(red, green, blue, alpha);
+  background: blue;
+}
+
+.hero {
+    background-color: aqua;
+  height: 100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+}
+
+
+
+
+.card {
+  background: greenyellow;
+  color: var(--text);
+  border: none;
+  transition: 0.3s;
+}
+
+.project-card:hover {
+  transform: scale(1.05);
+}
+
+/* AUTO COLOR IMAGES */
+.profile-img {
+    background-color: rgb(255, 224, 47);
+    width: 150px;
+    height: 150;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+  transition: 0.4s ease;
+}
+
+body.dark .auto-img {
+   
+  filter: brightness(0.85) contrast(1.2) saturate(1.1);
+}
+
+body.dark .auto-img.icon {
+  filter: invert(1) brightness(1.2);
+}

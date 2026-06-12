@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Portfolio Website",
+    "description": "Personal portfolio built with Bootstrap",
+    "image": "https://via.placeholder.com/300"
+  },
+  {
+    "title": "Mobile App",
+    "description": "Cross-platform mobile app",
+    "image": "https://via.placeholder.com/300"
+  },
+  {
+    "title": "E-commerce",
+    "description": "Online shopping system",
+    "image": "https://via.placeholder.com/300"
+  }
+]
