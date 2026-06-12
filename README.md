@@ -4,14 +4,14 @@ A short tagline like "Developer, writer, and lifelong learner" or "Building thin
 
 ## 📖 About Me
 
-- 🔭 I’m currently working on [your current project or focus area]
-- 🌱 I’m learning [technology or skill you're exploring]
-- 👯 I’m looking to collaborate on [type of projects or interests]
+- 🔭 I’m currently working on biography 
+- 🌱 I’m learning technology or skill on internet programming 
+- 👯 I’m looking to collaborate on technology projects 
 - 🤔 I’m looking for help with [if applicable]
-- 💬 Ask me about [topics you know well]
-- 📫 How to reach me: [email or preferred platform]
-- 😄 Pronouns: [your pronouns]
-- ⚡ Fun fact: [something interesting or quirky]
+- 💬 Ask me about html css js Node.js and reactjs 
+- 📫 How to reach me: omerjemal250@gmail.com 
+- 😄 Pronouns: omerjemal250 
+- ⚡ Fun fact: something interesting orquirky]
 
 ## 🧰 Tools & Technologies
 
