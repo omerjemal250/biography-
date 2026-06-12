@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm omer jemal 
 
-[Optional: A short tagline like "Developer, writer, and lifelong learner" or "Building things that matter."]
+A short tagline like "Developer, writer, and lifelong learner" or "Building things that matter."
 
 ## 📖 About Me
 
